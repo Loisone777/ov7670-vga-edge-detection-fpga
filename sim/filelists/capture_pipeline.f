@@ -1,0 +1,10 @@
+rtl/camera/capture.v
+rtl/image_processing/gray.v
+rtl/ip/line_buffer/shift_ram.v
+rtl/image_processing/filter.v
+rtl/image_processing/bin.v
+rtl/ip/line_buffer/sobel_shift.v
+rtl/image_processing/sobel.v
+rtl/video_output/fifo.v
+rtl/video_output/vga.v
+sim/tb/capture_testbench.v

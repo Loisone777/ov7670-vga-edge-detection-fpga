@@ -1,0 +1,38 @@
+# Quartus Prime / Intel FPGA generated files
+db/
+incremental_db/
+output_files/
+*.qws
+*.smsg
+*.rpt
+*.summary
+*.qdf
+*.sof
+*.pof
+*.jic
+*.sdo
+*.qip
+*.qsys
+*.sopcinfo
+*.bak
+*.bak.*
+*.qsf.bak
+*.qpf.bak
+
+# ModelSim / Questa simulation artifacts
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vcd
+*.fst
+*.log
+modelsim.ini
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
