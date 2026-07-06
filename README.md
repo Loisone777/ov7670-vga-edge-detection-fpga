@@ -101,16 +101,5 @@ Before board synthesis:
 5. Verify SCCB register writes on a logic analyzer or SignalTap before enabling camera capture.
 6. Validate image dimensions, FIFO read scheduling, and VGA frame synchronization on hardware.
 
-## Suggested GitHub Presentation
-
-Add these later to make this a strong portfolio project:
-
-- A board-level block diagram in `assets/`
-- A screenshot/video of the VGA edge-detection result
-- A ModelSim/Questa waveform for the capture or SCCB configuration flow
-- Board/device name and pin constraints
-- A short “Challenges and Fixes” section after resolving the listed integration issues
-
-## License
 
 No license has been selected yet. Add one only if you intend to make reuse permissions explicit.
