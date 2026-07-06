@@ -101,5 +101,3 @@ Before board synthesis:
 5. Verify SCCB register writes on a logic analyzer or SignalTap before enabling camera capture.
 6. Validate image dimensions, FIFO read scheduling, and VGA frame synchronization on hardware.
 
-
-No license has been selected yet. Add one only if you intend to make reuse permissions explicit.
